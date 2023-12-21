@@ -1,6 +1,6 @@
-# CISC/CMPE 204 Modelling Project
+# Sequence Modelling Project
 
-This project was developed by Zain Parihar, Kashan Rauf, Sreecharan Billakanti, Faiyaz Kazi for the CISC/CMPE 204 modelling project.
+This project was developed by Faiyaz Kazi, Zain Parihar, Kashan Rauf, Sreecharan Billakanti for the CISC/CMPE 204 modelling project.
 
 The project models a game of Sequence, a board game where players must compete to capture lines (sequences) of adjacent tiles.
 
